@@ -1,0 +1,16 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`codegen > element 1`] = `
+"const { toDisplayString, createElementVNode } = Vue
+return function render(_ctx, _cache){return createElementVNode('div', null, 'hi, ' + toDisplayString(_ctx.message))}"
+`;
+
+exports[`codegen > interpolation 1`] = `
+"const { toDisplayString } = Vue
+return function render(_ctx, _cache){return toDisplayString(_ctx.message)}"
+`;
+
+exports[`codegen > string > hi 1`] = `
+"
+return function render(_ctx, _cache){return 'hi'}"
+`;

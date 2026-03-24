@@ -1,0 +1,12 @@
+node_modules
+lib
+dist
+*.min.js
+*.min.css
+package-lock.json
+yarn.lock
+coverage
+.nyc_output
+.backup
+packages/*/node_modules
+

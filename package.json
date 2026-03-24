@@ -1,0 +1,57 @@
+{
+  "name": "guoba-mini-vue",
+  "version": "1.0.0",
+  "description": "A mini Vue 3 implementation",
+  "main": "lib/guoba-mini-vue.cjs.js",
+  "module": "lib/guoba-mini-vue.esm.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "README.md",
+    "LICENSE",
+    "CHANGELOG.md"
+  ],
+  "private": false,
+  "type": "module",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-username/guoba-mini-vue.git"
+  },
+  "homepage": "https://github.com/your-username/guoba-mini-vue#readme",
+  "bugs": {
+    "url": "https://github.com/your-username/guoba-mini-vue/issues"
+  },
+  "keywords": [
+    "vue",
+    "vue3",
+    "reactive",
+    "virtual-dom",
+    "component",
+    "compiler",
+    "typescript",
+    "mini-vue"
+  ],
+  "author": "your-name",
+  "scripts": {
+    "test": "vitest",
+    "test:ui": "vitest --ui",
+    "test:coverage": "vitest --coverage",
+    "build": "rollup -c rollup.config.js",
+    "format": "prettier --write \"src/**/*.ts\" \"example/**/*.js\""
+  },
+  "devDependencies": {
+    "@rollup/plugin-typescript": "^12.3.0",
+    "@vitest/coverage-v8": "^4.1.1",
+    "@vitest/ui": "^4.1.1",
+    "prettier": "^3.8.1",
+    "rollup": "^4.59.0",
+    "tslib": "^2.8.1",
+    "typescript": "^5.9.3",
+    "vitest": "^4.1.1"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "packageManager": "pnpm@10.26.2"
+}
