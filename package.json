@@ -16,11 +16,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/your-username/guoba-mini-vue.git"
+    "url": "git+https://github.com/GUOBA250/guoba-mini-vue.git"
   },
-  "homepage": "https://github.com/your-username/guoba-mini-vue#readme",
+  "homepage": "https://github.com/GUOBA250/guoba-mini-vue#readme",
   "bugs": {
-    "url": "https://github.com/your-username/guoba-mini-vue/issues"
+    "url": "https://github.com/GUOBA250/guoba-mini-vue/issues"
   },
   "keywords": [
     "vue",

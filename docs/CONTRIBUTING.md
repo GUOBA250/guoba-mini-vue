@@ -1,6 +1,6 @@
 # 贡献指南
 
-感谢你对 guoba-mini-vue 项目的关注！我们欢迎任何形式的贡献，包括但不限于：
+感谢你对 guoba-mini-vue 项目的关注！我非常欢迎任何形式的贡献，包括但不限于：
 
 - 报告 Bug
 - 讨论新功能
@@ -54,7 +54,7 @@
 
 如果你发现了 Bug，请：
 
-1. 先在 [Issues](https://github.com/你的用户名/guoba-mini-vue/issues) 中搜索，确认问题是否已被报告
+1. 先在 [Issues](https://github.com/GUOBA250/guoba-mini-vue/issues) 中搜索，确认问题是否已被报告
 2. 如果没有，创建新的 Issue，包含：
    - 清晰的标题
    - 详细的描述
@@ -90,7 +90,7 @@
 
 ### 1. Fork 仓库
 
-1. 访问 https://github.com/你的用户名/guoba-mini-vue
+1. 访问 https://github.com/GUOBA250/guoba-mini-vue
 2. 点击右上角的 "Fork" 按钮
 3. 等待 Fork 完成
 
@@ -98,11 +98,11 @@
 
 ```bash
 # 克隆你 Fork 的仓库
-git clone https://github.com/你的用户名/guoba-mini-vue.git
+git clone https://github.com/GUOBA250/guoba-mini-vue.git
 cd guoba-mini-vue
 
 # 添加上游仓库
-git remote add upstream https://github.com/原作者用户名/guoba-mini-vue.git
+git remote add upstream https://github.com/GUOBA250/guoba-mini-vue.git
 
 # 验证远程仓库
 git remote -v
@@ -560,7 +560,7 @@ git push origin feature/your-feature-name
    - [使用示例](./EXAMPLES.md)
 
 2. **搜索 Issues**
-   - 在 [Issues](https://github.com/你的用户名/guoba-mini-vue/issues) 中搜索类似问题
+   - 在 [Issues](https://github.com/GUOBA250/guoba-mini-vue/issues) 中搜索类似问题
 
 3. **创建 Issue**
    - 如果找不到答案，创建新的 Issue
@@ -572,8 +572,8 @@ git push origin feature/your-feature-name
 
 ### 联系方式
 
-- GitHub Issues: https://github.com/你的用户名/guoba-mini-vue/issues
-- Email: 你的邮箱@example.com
+- GitHub Issues: https://github.com/GUOBA250/guoba-mini-vue/issues
+- Email: 3213084498@qq.com
 
 ---
 

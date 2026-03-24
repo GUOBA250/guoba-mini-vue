@@ -170,7 +170,6 @@ pnpm format
 - [API 文档](./docs/API.md) - 详细的 API 参考
 - [使用示例](./docs/EXAMPLES.md) - 丰富的使用示例
 - [贡献指南](./docs/CONTRIBUTING.md) - 如何贡献代码
-- [GitHub 上传指南](./docs/GITHUB_GUIDE.md) - 如何上传到 GitHub
 - [更新日志](./CHANGELOG.md) - 版本更新记录
 
 ## 示例
