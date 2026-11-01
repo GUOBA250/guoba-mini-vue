@@ -1,10 +1,8 @@
 # guoba-mini-vue
 
-一个轻量级的 Vue 3 实现，包含响应式系统、虚拟 DOM、组件系统和编译器核心功能。这个项目主要用于学习和理解 Vue 3 的核心原理。
+一个轻量级的 Vue 3 实现，包含响应式系统、虚拟 DOM、组件系统和编译器核心功能。学习项目：跟课复刻 Vue3 核心流程，重点在理解原理，配套单元测试锁定行为。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)]()
-[![Test Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen)]()
 
 ## 项目特点
 
@@ -26,8 +24,6 @@ guoba-mini-vue/
 │   ├── compiler-core/       # 编译器核心
 │   ├── shared/              # 共享工具函数
 │   └── vue/                 # 完整的 Vue 实现
-├── lib/                     # 构建产物
-├── .backup/                 # 备份文件
 └── package.json
 ```
 
@@ -42,7 +38,7 @@ guoba-mini-vue/
 
 ```bash
 # 克隆项目
-git clone https://github.com/your-username/guoba-mini-vue.git
+git clone https://github.com/GUOBA250/guoba-mini-vue.git
 cd guoba-mini-vue
 
 # 安装依赖
